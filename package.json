@@ -1,0 +1,26 @@
+{
+  "name": "master-vista-quillen",
+  "version": "1.0.0",
+  "description": "",
+  "main": "backend/server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CristianVR360/project-master360.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/CristianVR360/project-master360/issues"
+  },
+  "homepage": "https://github.com/CristianVR360/project-master360#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^16.3.1",
+    "express": "^4.18.2",
+    "mongoose": "^7.5.2",
+    "xml2js": "^0.6.2"
+  }
+}

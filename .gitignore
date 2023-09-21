@@ -1,0 +1,11 @@
+"" 
+# Archivos de Node.js
+node_modules/
+npm-debug.log
+
+# Archivo de entorno
+.env
+
+# Archivos del sistema
+.DS_Store
+Thumbs.db

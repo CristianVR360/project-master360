@@ -1,0 +1,1661 @@
+{
+  "tour": {
+    "$": { "start": "node8", "appversion": "6.1.2", "apprev": "17873" },
+    "panorama": [
+      {
+        "$": { "id": "node8" },
+        "input": [
+          {
+            "$": {
+              "overlap": "1",
+              "levelbias": "0.400",
+              "levelbiashidpi": "1.000",
+              "width": "2048",
+              "leveltileurl": "tiles/node8/cf_%c/l_%l/c_%x/tile_%y.jpg",
+              "height": "2048",
+              "levelingroll": "0",
+              "leveltilesize": "510",
+              "levelingpitch": "0"
+            },
+            "level": [
+              {
+                "$": {
+                  "width": "2048",
+                  "preload": "0",
+                  "height": "2048",
+                  "predecode": "0"
+                }
+              },
+              {
+                "$": {
+                  "width": "1024",
+                  "preload": "0",
+                  "height": "1024",
+                  "predecode": "0"
+                }
+              },
+              {
+                "$": {
+                  "width": "512",
+                  "preload": "0",
+                  "height": "512",
+                  "predecode": "0"
+                }
+              },
+              {
+                "$": {
+                  "width": "256",
+                  "preload": "1",
+                  "height": "256",
+                  "predecode": "1"
+                }
+              }
+            ],
+            "preview": [{ "$": { "strip": "1", "color": "0x808080" } }]
+          }
+        ],
+        "view": [
+          {
+            "$": { "pannorth": "0", "fovmode": "0" },
+            "start": [
+              {
+                "$": { "pan": "0", "projection": "4", "tilt": "0", "fov": "70" }
+              }
+            ],
+            "flyin": [
+              {
+                "$": {
+                  "pan": "0",
+                  "projection": "9",
+                  "tilt": "-90",
+                  "fov": "170"
+                }
+              }
+            ],
+            "min": [{ "$": { "fovpixel": "2", "pan": "0", "tilt": "-90" } }],
+            "max": [
+              {
+                "$": {
+                  "fovfisheye": "360",
+                  "fovstereographic": "270",
+                  "scaletofit": "1",
+                  "pan": "360",
+                  "tilt": "90",
+                  "fov": "120"
+                }
+              }
+            ]
+          }
+        ],
+        "userdata": [
+          {
+            "$": {
+              "longitude": "-71.234564",
+              "datetime": "26/08/2023 13:42",
+              "copyright": "",
+              "tags": "Pano2VR6",
+              "author": "",
+              "title": "default",
+              "info": "",
+              "comment": "",
+              "latitude": "-38.502583",
+              "customnodeid": "",
+              "nodeid": "node8",
+              "source": "",
+              "description": ""
+            }
+          }
+        ],
+        "hotspots": [
+          {
+            "$": { "wordwrap": "1", "width": "180", "height": "20" },
+            "label": [
+              {
+                "$": {
+                  "background": "1",
+                  "enabled": "1",
+                  "bordercolor": "0x000000",
+                  "wordwrap": "1",
+                  "width": "180",
+                  "textalpha": "1",
+                  "textcolor": "0x000000",
+                  "backgroundcolor": "0xffffff",
+                  "backgroundalpha": "1",
+                  "border": "1",
+                  "height": "20",
+                  "borderradius": "1",
+                  "borderalpha": "1"
+                }
+              }
+            ],
+            "polystyle": [
+              {
+                "$": {
+                  "bordercolor": "0x0000ff",
+                  "handcursor": "1",
+                  "backgroundcolor": "0x0000ff",
+                  "backgroundalpha": "0.25098",
+                  "mode": "0",
+                  "borderalpha": "1"
+                }
+              }
+            ],
+            "hotspot": [
+              {
+                "$": {
+                  "target": "_blank",
+                  "title": "Paso Fronteriso Pino Hachado",
+                  "skinid": "ht_tag_georeferencia_largeRight",
+                  "url": "",
+                  "id": "Point01",
+                  "pan": "-81.16",
+                  "tilt": "0.83",
+                  "description": ""
+                }
+              },
+              {
+                "$": {
+                  "target": "_blank",
+                  "title": "Reserva Nacional Alto Bio Bio",
+                  "skinid": "ht_tag_georeferencia_largeRight",
+                  "url": "",
+                  "id": "Point02",
+                  "pan": "-39.77",
+                  "tilt": "1.13",
+                  "description": ""
+                }
+              },
+              {
+                "$": {
+                  "target": "_blank",
+                  "title": "33",
+                  "skinid": "ht_disponible",
+                  "url": "",
+                  "id": "33",
+                  "pan": "-339.63",
+                  "tilt": "-65.19",
+                  "description": ""
+                }
+              },
+              {
+                "$": {
+                  "target": "_blank",
+                  "title": "34",
+                  "skinid": "ht_disponible",
+                  "url": "",
+                  "id": "34",
+                  "pan": "-333.79",
+                  "tilt": "-69.53",
+                  "description": ""
+                }
+              },
+              {
+                "$": {
+                  "target": "_blank",
+                  "title": "35",
+                  "skinid": "ht_disponible",
+                  "url": "",
+                  "id": "35",
+                  "pan": "-325.15",
+                  "tilt": "-74.54",
+                  "description": ""
+                }
+              },
+              {
+                "$": {
+                  "target": "_blank",
+                  "title": "36",
+                  "skinid": "ht_disponible",
+                  "url": "",
+                  "id": "36",
+                  "pan": "-307",
+                  "tilt": "-79.17",
+                  "description": ""
+                }
+              },
+              {
+                "$": {
+                  "target": "_blank",
+                  "title": "37",
+                  "skinid": "ht_disponible",
+                  "url": "",
+                  "id": "37",
+                  "pan": "-269.82",
+                  "tilt": "-80.08",
+                  "description": ""
+                }
+              },
+              {
+                "$": {
+                  "target": "_blank",
+                  "title": "43",
+                  "skinid": "ht_disponible",
+                  "url": "",
+                  "id": "43",
+                  "pan": "-297.27",
+                  "tilt": "-87.67",
+                  "description": ""
+                }
+              },
+              {
+                "$": {
+                  "target": "_blank",
+                  "title": "44",
+                  "skinid": "ht_disponible",
+                  "url": "",
+                  "id": "44",
+                  "pan": "-360",
+                  "tilt": "-81.55",
+                  "description": ""
+                }
+              },
+              {
+                "$": {
+                  "target": "_blank",
+                  "title": "45",
+                  "skinid": "ht_disponible",
+                  "url": "",
+                  "id": "45",
+                  "pan": "-12.38",
+                  "tilt": "-76.26",
+                  "description": ""
+                }
+              },
+              {
+                "$": {
+                  "target": "_blank",
+                  "title": "46",
+                  "skinid": "ht_disponible",
+                  "url": "",
+                  "id": "46",
+                  "pan": "-8.71",
+                  "tilt": "-71.04",
+                  "description": ""
+                }
+              },
+              {
+                "$": {
+                  "target": "_blank",
+                  "title": "47",
+                  "skinid": "ht_disponible",
+                  "url": "",
+                  "id": "47",
+                  "pan": "-6.87",
+                  "tilt": "-66.12",
+                  "description": ""
+                }
+              },
+              {
+                "$": {
+                  "target": "_blank",
+                  "title": "144",
+                  "skinid": "ht_disponible",
+                  "url": "",
+                  "id": "144",
+                  "pan": "-69.01",
+                  "tilt": "-84.36",
+                  "description": ""
+                }
+              },
+              {
+                "$": {
+                  "target": "_blank",
+                  "title": "57",
+                  "skinid": "ht_disponible",
+                  "url": "",
+                  "id": "57",
+                  "pan": "-28.21",
+                  "tilt": "-63.3",
+                  "description": ""
+                }
+              },
+              {
+                "$": {
+                  "target": "_blank",
+                  "title": "56",
+                  "skinid": "ht_disponible",
+                  "url": "",
+                  "id": "56",
+                  "pan": "-36.01",
+                  "tilt": "-67.21",
+                  "description": ""
+                }
+              },
+              {
+                "$": {
+                  "target": "_blank",
+                  "title": "55",
+                  "skinid": "ht_disponible",
+                  "url": "",
+                  "id": "55",
+                  "pan": "-44.8",
+                  "tilt": "-70.79",
+                  "description": ""
+                }
+              },
+              {
+                "$": {
+                  "target": "_blank",
+                  "title": "54",
+                  "skinid": "ht_disponible",
+                  "url": "",
+                  "id": "54",
+                  "pan": "-60.05",
+                  "tilt": "-73.89",
+                  "description": ""
+                }
+              },
+              {
+                "$": {
+                  "target": "_blank",
+                  "title": "53",
+                  "skinid": "ht_disponible",
+                  "url": "",
+                  "id": "53",
+                  "pan": "-80.83",
+                  "tilt": "-75.36",
+                  "description": ""
+                }
+              },
+              {
+                "$": {
+                  "target": "_blank",
+                  "title": "143",
+                  "skinid": "ht_disponible",
+                  "url": "",
+                  "id": "143",
+                  "pan": "-99.24",
+                  "tilt": "-76.22",
+                  "description": ""
+                }
+              },
+              {
+                "$": {
+                  "target": "_blank",
+                  "title": "169",
+                  "skinid": "ht_disponible",
+                  "url": "",
+                  "id": "169",
+                  "pan": "-222.89",
+                  "tilt": "-77.44",
+                  "description": ""
+                }
+              },
+              {
+                "$": {
+                  "target": "_blank",
+                  "title": "108",
+                  "skinid": "ht_disponible",
+                  "url": "",
+                  "id": "108",
+                  "pan": "-176.81",
+                  "tilt": "-84.9",
+                  "description": ""
+                }
+              },
+              {
+                "$": {
+                  "target": "_blank",
+                  "title": "109",
+                  "skinid": "ht_disponible",
+                  "url": "",
+                  "id": "109",
+                  "pan": "-172.03",
+                  "tilt": "-77.74",
+                  "description": ""
+                }
+              },
+              {
+                "$": {
+                  "target": "_blank",
+                  "title": "110",
+                  "skinid": "ht_disponible",
+                  "url": "",
+                  "id": "110",
+                  "pan": "-172.37",
+                  "tilt": "-73.09",
+                  "description": ""
+                }
+              },
+              {
+                "$": {
+                  "target": "_blank",
+                  "title": "111",
+                  "skinid": "ht_disponible",
+                  "url": "",
+                  "id": "111",
+                  "pan": "-174.04",
+                  "tilt": "-68.97",
+                  "description": ""
+                }
+              },
+              {
+                "$": {
+                  "target": "_blank",
+                  "title": "112",
+                  "skinid": "ht_disponible",
+                  "url": "",
+                  "id": "112",
+                  "pan": "-177.27",
+                  "tilt": "-64.57",
+                  "description": ""
+                }
+              },
+              {
+                "$": {
+                  "target": "_blank",
+                  "title": "113",
+                  "skinid": "ht_disponible",
+                  "url": "",
+                  "id": "113",
+                  "pan": "-179.54",
+                  "tilt": "-60.28",
+                  "description": ""
+                }
+              },
+              {
+                "$": {
+                  "target": "_blank",
+                  "title": "114",
+                  "skinid": "ht_disponible",
+                  "url": "",
+                  "id": "114",
+                  "pan": "-178.79",
+                  "tilt": "-55.4",
+                  "description": ""
+                }
+              },
+              {
+                "$": {
+                  "target": "_blank",
+                  "title": "102",
+                  "skinid": "ht_disponible",
+                  "url": "",
+                  "id": "102",
+                  "pan": "-191.38",
+                  "tilt": "-50.38",
+                  "description": ""
+                }
+              },
+              {
+                "$": {
+                  "target": "_blank",
+                  "title": "103",
+                  "skinid": "ht_disponible",
+                  "url": "",
+                  "id": "103",
+                  "pan": "-194.27",
+                  "tilt": "-54.85",
+                  "description": ""
+                }
+              },
+              {
+                "$": {
+                  "target": "_blank",
+                  "title": "104",
+                  "skinid": "ht_disponible",
+                  "url": "",
+                  "id": "104",
+                  "pan": "-197.89",
+                  "tilt": "-59.09",
+                  "description": ""
+                }
+              },
+              {
+                "$": {
+                  "target": "_blank",
+                  "title": "105",
+                  "skinid": "ht_disponible",
+                  "url": "",
+                  "id": "105",
+                  "pan": "-200.97",
+                  "tilt": "-62.18",
+                  "description": ""
+                }
+              },
+              {
+                "$": {
+                  "target": "_blank",
+                  "title": "106",
+                  "skinid": "ht_disponible",
+                  "url": "",
+                  "id": "106",
+                  "pan": "-205.61",
+                  "tilt": "-66.52",
+                  "description": ""
+                }
+              },
+              {
+                "$": {
+                  "target": "_blank",
+                  "title": "107",
+                  "skinid": "ht_disponible",
+                  "url": "",
+                  "id": "107",
+                  "pan": "-210",
+                  "tilt": "-70.76",
+                  "description": ""
+                }
+              },
+              {
+                "$": {
+                  "target": "_blank",
+                  "title": "142",
+                  "skinid": "ht_disponible",
+                  "url": "",
+                  "id": "142",
+                  "pan": "-119.96",
+                  "tilt": "-74.48",
+                  "description": ""
+                }
+              },
+              {
+                "$": {
+                  "target": "_blank",
+                  "title": "141",
+                  "skinid": "ht_disponible",
+                  "url": "",
+                  "id": "141",
+                  "pan": "-136.66",
+                  "tilt": "-71.09",
+                  "description": ""
+                }
+              },
+              {
+                "$": {
+                  "target": "_blank",
+                  "title": "140",
+                  "skinid": "ht_disponible",
+                  "url": "",
+                  "id": "140",
+                  "pan": "-149.13",
+                  "tilt": "-65.56",
+                  "description": ""
+                }
+              },
+              {
+                "$": {
+                  "target": "_blank",
+                  "title": "139",
+                  "skinid": "ht_disponible",
+                  "url": "",
+                  "id": "139",
+                  "pan": "-159.45",
+                  "tilt": "-60.73",
+                  "description": ""
+                }
+              },
+              {
+                "$": {
+                  "target": "_blank",
+                  "title": "138",
+                  "skinid": "ht_disponible",
+                  "url": "",
+                  "id": "138",
+                  "pan": "-165.67",
+                  "tilt": "-56.03",
+                  "description": ""
+                }
+              },
+              {
+                "$": {
+                  "target": "_blank",
+                  "title": "75",
+                  "skinid": "ht_disponible",
+                  "url": "",
+                  "id": "75",
+                  "pan": "-43.01",
+                  "tilt": "-58.05",
+                  "description": ""
+                }
+              },
+              {
+                "$": {
+                  "target": "_blank",
+                  "title": "74",
+                  "skinid": "ht_disponible",
+                  "url": "",
+                  "id": "74",
+                  "pan": "-53.45",
+                  "tilt": "-62.18",
+                  "description": ""
+                }
+              },
+              {
+                "$": {
+                  "target": "_blank",
+                  "title": "73",
+                  "skinid": "ht_disponible",
+                  "url": "",
+                  "id": "73",
+                  "pan": "-74.06",
+                  "tilt": "-65.88",
+                  "description": ""
+                }
+              },
+              {
+                "$": {
+                  "target": "_blank",
+                  "title": "72",
+                  "skinid": "ht_disponible",
+                  "url": "",
+                  "id": "72",
+                  "pan": "-96.4",
+                  "tilt": "-65.59",
+                  "description": ""
+                }
+              },
+              {
+                "$": {
+                  "target": "_blank",
+                  "title": "145",
+                  "skinid": "ht_disponible",
+                  "url": "",
+                  "id": "145",
+                  "pan": "-115.84",
+                  "tilt": "-64.85",
+                  "description": ""
+                }
+              },
+              {
+                "$": {
+                  "target": "_blank",
+                  "title": "146",
+                  "skinid": "ht_disponible",
+                  "url": "",
+                  "id": "146",
+                  "pan": "-127.52",
+                  "tilt": "-62.27",
+                  "description": ""
+                }
+              },
+              {
+                "$": {
+                  "target": "_blank",
+                  "title": "147",
+                  "skinid": "ht_disponible",
+                  "url": "",
+                  "id": "147",
+                  "pan": "-135.29",
+                  "tilt": "-59.53",
+                  "description": ""
+                }
+              },
+              {
+                "$": {
+                  "target": "_blank",
+                  "title": "148",
+                  "skinid": "ht_disponible",
+                  "url": "",
+                  "id": "148",
+                  "pan": "-140.89",
+                  "tilt": "-54.65",
+                  "description": ""
+                }
+              },
+              {
+                "$": {
+                  "target": "_blank",
+                  "title": "149",
+                  "skinid": "ht_disponible",
+                  "url": "",
+                  "id": "189",
+                  "pan": "-147.07",
+                  "tilt": "-49.3",
+                  "description": ""
+                }
+              },
+              {
+                "$": {
+                  "target": "_blank",
+                  "title": "150",
+                  "skinid": "ht_disponible",
+                  "url": "",
+                  "id": "150",
+                  "pan": "-152.5",
+                  "tilt": "-54.81",
+                  "description": ""
+                }
+              },
+              {
+                "$": {
+                  "target": "_blank",
+                  "title": "137",
+                  "skinid": "ht_disponible",
+                  "url": "",
+                  "id": "137",
+                  "pan": "-155.1",
+                  "tilt": "-50.9",
+                  "description": ""
+                }
+              },
+              {
+                "$": {
+                  "target": "_blank",
+                  "title": "137",
+                  "skinid": "ht_disponible",
+                  "url": "",
+                  "id": "137",
+                  "pan": "-163.85",
+                  "tilt": "-52.53",
+                  "description": ""
+                }
+              },
+              {
+                "$": {
+                  "target": "_blank",
+                  "title": "136",
+                  "skinid": "ht_disponible",
+                  "url": "",
+                  "id": "136",
+                  "pan": "-167.54",
+                  "tilt": "-49.37",
+                  "description": ""
+                }
+              },
+              {
+                "$": {
+                  "target": "_blank",
+                  "title": "135",
+                  "skinid": "ht_disponible",
+                  "url": "",
+                  "id": "135",
+                  "pan": "-168.66",
+                  "tilt": "-46.73",
+                  "description": ""
+                }
+              },
+              {
+                "$": {
+                  "target": "_blank",
+                  "title": "134",
+                  "skinid": "ht_disponible",
+                  "url": "",
+                  "id": "134",
+                  "pan": "-170.23",
+                  "tilt": "-44.21",
+                  "description": ""
+                }
+              },
+              {
+                "$": {
+                  "target": "_blank",
+                  "title": "133",
+                  "skinid": "ht_disponible",
+                  "url": "",
+                  "id": "133",
+                  "pan": "-172.18",
+                  "tilt": "-42.33",
+                  "description": ""
+                }
+              },
+              {
+                "$": {
+                  "target": "_blank",
+                  "title": "132",
+                  "skinid": "ht_disponible",
+                  "url": "",
+                  "id": "132",
+                  "pan": "-174.01",
+                  "tilt": "-40.18",
+                  "description": ""
+                }
+              },
+              {
+                "$": {
+                  "target": "_blank",
+                  "title": "131",
+                  "skinid": "ht_disponible",
+                  "url": "",
+                  "id": "131",
+                  "pan": "-175.55",
+                  "tilt": "-38.48",
+                  "description": ""
+                }
+              },
+              {
+                "$": {
+                  "target": "_blank",
+                  "title": "130",
+                  "skinid": "ht_disponible",
+                  "url": "",
+                  "id": "130",
+                  "pan": "-176.44",
+                  "tilt": "-36.89",
+                  "description": ""
+                }
+              },
+              {
+                "$": {
+                  "target": "_blank",
+                  "title": "127",
+                  "skinid": "ht_disponible",
+                  "url": "",
+                  "id": "127",
+                  "pan": "-177.56",
+                  "tilt": "-35.5",
+                  "description": ""
+                }
+              },
+              {
+                "$": {
+                  "target": "_blank",
+                  "title": "126",
+                  "skinid": "ht_disponible",
+                  "url": "",
+                  "id": "126",
+                  "pan": "-177.75",
+                  "tilt": "-34",
+                  "description": ""
+                }
+              },
+              {
+                "$": {
+                  "target": "_blank",
+                  "title": "125",
+                  "skinid": "ht_disponible",
+                  "url": "",
+                  "id": "125",
+                  "pan": "-177.06",
+                  "tilt": "-32.29",
+                  "description": ""
+                }
+              },
+              {
+                "$": {
+                  "target": "_blank",
+                  "title": "124",
+                  "skinid": "ht_disponible",
+                  "url": "",
+                  "id": "124",
+                  "pan": "-176.42",
+                  "tilt": "-30.19",
+                  "description": ""
+                }
+              },
+              {
+                "$": {
+                  "target": "_blank",
+                  "title": "123",
+                  "skinid": "ht_disponible",
+                  "url": "",
+                  "id": "123",
+                  "pan": "-175.49",
+                  "tilt": "-28.37",
+                  "description": ""
+                }
+              },
+              {
+                "$": {
+                  "target": "_blank",
+                  "title": "120",
+                  "skinid": "ht_disponible",
+                  "url": "",
+                  "id": "120",
+                  "pan": "-181.06",
+                  "tilt": "-28.62",
+                  "description": ""
+                }
+              },
+              {
+                "$": {
+                  "target": "_blank",
+                  "title": "122",
+                  "skinid": "ht_disponible",
+                  "url": "",
+                  "id": "122",
+                  "pan": "-175.28",
+                  "tilt": "-26.98",
+                  "description": ""
+                }
+              },
+              {
+                "$": {
+                  "target": "_blank",
+                  "title": "121",
+                  "skinid": "ht_disponible",
+                  "url": "",
+                  "id": "121",
+                  "pan": "-180.94",
+                  "tilt": "-26.95",
+                  "description": ""
+                }
+              },
+              {
+                "$": {
+                  "target": "_blank",
+                  "title": "119",
+                  "skinid": "ht_disponible",
+                  "url": "",
+                  "id": "119",
+                  "pan": "-181.52",
+                  "tilt": "-30.23",
+                  "description": ""
+                }
+              },
+              {
+                "$": {
+                  "target": "_blank",
+                  "title": "118",
+                  "skinid": "ht_disponible",
+                  "url": "",
+                  "id": "118",
+                  "pan": "-183.11",
+                  "tilt": "-32.08",
+                  "description": ""
+                }
+              },
+              {
+                "$": {
+                  "target": "_blank",
+                  "title": "117",
+                  "skinid": "ht_disponible",
+                  "url": "",
+                  "id": "117",
+                  "pan": "-185.22",
+                  "tilt": "-34.93",
+                  "description": ""
+                }
+              },
+              {
+                "$": {
+                  "target": "_blank",
+                  "title": "100",
+                  "skinid": "ht_disponible",
+                  "url": "",
+                  "id": "100",
+                  "pan": "-185.49",
+                  "tilt": "-39.59",
+                  "description": ""
+                }
+              },
+              {
+                "$": {
+                  "target": "_blank",
+                  "title": "116",
+                  "skinid": "ht_disponible",
+                  "url": "",
+                  "id": "116",
+                  "pan": "-181.85",
+                  "tilt": "-44.06",
+                  "description": ""
+                }
+              },
+              {
+                "$": {
+                  "target": "_blank",
+                  "title": "101",
+                  "skinid": "ht_disponible",
+                  "url": "",
+                  "id": "101",
+                  "pan": "-187.66",
+                  "tilt": "-43.76",
+                  "description": ""
+                }
+              },
+              {
+                "$": {
+                  "target": "_blank",
+                  "title": "115",
+                  "skinid": "ht_disponible",
+                  "url": "",
+                  "id": "115",
+                  "pan": "-180.1",
+                  "tilt": "-49.4",
+                  "description": ""
+                }
+              },
+              {
+                "$": {
+                  "target": "_blank",
+                  "title": "99",
+                  "skinid": "ht_disponible",
+                  "url": "",
+                  "id": "99",
+                  "pan": "-189.27",
+                  "tilt": "-33.97",
+                  "description": ""
+                }
+              },
+              {
+                "$": {
+                  "target": "_blank",
+                  "title": "98",
+                  "skinid": "ht_disponible",
+                  "url": "",
+                  "id": "98",
+                  "pan": "-188.08",
+                  "tilt": "-30.98",
+                  "description": ""
+                }
+              },
+              {
+                "$": {
+                  "target": "_blank",
+                  "title": "97",
+                  "skinid": "ht_disponible",
+                  "url": "",
+                  "id": "97",
+                  "pan": "-187.24",
+                  "tilt": "-28.93",
+                  "description": ""
+                }
+              },
+              {
+                "$": {
+                  "target": "_blank",
+                  "title": "96",
+                  "skinid": "ht_disponible",
+                  "url": "",
+                  "id": "96",
+                  "pan": "-186.65",
+                  "tilt": "-26.95",
+                  "description": ""
+                }
+              },
+              {
+                "$": {
+                  "target": "_blank",
+                  "title": "151",
+                  "skinid": "ht_disponible",
+                  "url": "",
+                  "id": "151",
+                  "pan": "-155.73",
+                  "tilt": "-47.11",
+                  "description": ""
+                }
+              },
+              {
+                "$": {
+                  "target": "_blank",
+                  "title": "152",
+                  "skinid": "ht_disponible",
+                  "url": "",
+                  "id": "152",
+                  "pan": "-157.08",
+                  "tilt": "-44.07",
+                  "description": ""
+                }
+              },
+              {
+                "$": {
+                  "target": "_blank",
+                  "title": "153",
+                  "skinid": "ht_disponible",
+                  "url": "",
+                  "id": "153",
+                  "pan": "-158.67",
+                  "tilt": "-40.83",
+                  "description": ""
+                }
+              },
+              {
+                "$": {
+                  "target": "_blank",
+                  "title": "154",
+                  "skinid": "ht_disponible",
+                  "url": "",
+                  "id": "154",
+                  "pan": "-160.55",
+                  "tilt": "-38.89",
+                  "description": ""
+                }
+              },
+              {
+                "$": {
+                  "target": "_blank",
+                  "title": "155",
+                  "skinid": "ht_disponible",
+                  "url": "",
+                  "id": "155",
+                  "pan": "-162.41",
+                  "tilt": "-36.74",
+                  "description": ""
+                }
+              },
+              {
+                "$": {
+                  "target": "_blank",
+                  "title": "156",
+                  "skinid": "ht_disponible",
+                  "url": "",
+                  "id": "156",
+                  "pan": "-164.14",
+                  "tilt": "-34.84",
+                  "description": ""
+                }
+              },
+              {
+                "$": {
+                  "target": "_blank",
+                  "title": "157",
+                  "skinid": "ht_disponible",
+                  "url": "",
+                  "id": "157",
+                  "pan": "-166",
+                  "tilt": "-33.93",
+                  "description": ""
+                }
+              },
+              {
+                "$": {
+                  "target": "_blank",
+                  "title": "158",
+                  "skinid": "ht_disponible",
+                  "url": "",
+                  "id": "158",
+                  "pan": "-166.83",
+                  "tilt": "-32.63",
+                  "description": ""
+                }
+              },
+              {
+                "$": {
+                  "target": "_blank",
+                  "title": "159",
+                  "skinid": "ht_disponible",
+                  "url": "",
+                  "id": "158",
+                  "pan": "-167.63",
+                  "tilt": "-31.34",
+                  "description": ""
+                }
+              },
+              {
+                "$": {
+                  "target": "_blank",
+                  "title": "160",
+                  "skinid": "ht_disponible",
+                  "url": "",
+                  "id": "160",
+                  "pan": "-167.74",
+                  "tilt": "-29.83",
+                  "description": ""
+                }
+              },
+              {
+                "$": {
+                  "target": "_blank",
+                  "title": "161",
+                  "skinid": "ht_disponible",
+                  "url": "",
+                  "id": "161",
+                  "pan": "-167.98",
+                  "tilt": "-28.39",
+                  "description": ""
+                }
+              },
+              {
+                "$": {
+                  "target": "_blank",
+                  "title": "162",
+                  "skinid": "ht_disponible",
+                  "url": "",
+                  "id": "162",
+                  "pan": "-168.38",
+                  "tilt": "-27.29",
+                  "description": ""
+                }
+              },
+              {
+                "$": {
+                  "target": "_blank",
+                  "title": "163",
+                  "skinid": "ht_disponible",
+                  "url": "",
+                  "id": "163",
+                  "pan": "-168.14",
+                  "tilt": "-25.88",
+                  "description": ""
+                }
+              }
+            ]
+          }
+        ],
+        "media": [""],
+        "transition": [
+          {
+            "$": {
+              "zoomout": "0",
+              "enabled": "1",
+              "softedge": "0",
+              "zoomspeed": "2",
+              "zoomfov": "20",
+              "blendtime": "1",
+              "type": "crossdissolve",
+              "zoomin": "0",
+              "zoomoutpause": "1",
+              "blendcolor": "0x000000"
+            }
+          }
+        ],
+        "animation": [
+          {
+            "$": {
+              "syncanimationwithvideo": "0",
+              "animsequence": "Animation01",
+              "useinautorotation": "0"
+            }
+          }
+        ],
+        "control": [
+          {
+            "$": {
+              "sensitivity": "8",
+              "simulatemass": "1",
+              "invertcontrol": "1",
+              "lockedkeyboard": "0",
+              "lockedwheel": "0",
+              "contextprojections": "0",
+              "contextfullscreen": "1",
+              "lockedmouse": "0",
+              "invertwheel": "0",
+              "lockedkeyboardzoom": "0",
+              "speedwheel": "1",
+              "hideabout": "0",
+              "rubberband": "0",
+              "dblclickfullscreen": "0"
+            }
+          }
+        ]
+      },
+      {
+        "$": { "id": "node3" },
+        "input": [
+          {
+            "$": {
+              "overlap": "1",
+              "levelbias": "0.400",
+              "levelbiashidpi": "1.000",
+              "width": "2048",
+              "leveltileurl": "tiles/node3/cf_%c/l_%l/c_%x/tile_%y.jpg",
+              "height": "2048",
+              "levelingroll": "0",
+              "leveltilesize": "510",
+              "levelingpitch": "0"
+            },
+            "level": [
+              {
+                "$": {
+                  "width": "2048",
+                  "preload": "0",
+                  "height": "2048",
+                  "predecode": "0"
+                }
+              },
+              {
+                "$": {
+                  "width": "1024",
+                  "preload": "0",
+                  "height": "1024",
+                  "predecode": "0"
+                }
+              },
+              {
+                "$": {
+                  "width": "512",
+                  "preload": "0",
+                  "height": "512",
+                  "predecode": "0"
+                }
+              },
+              {
+                "$": {
+                  "width": "256",
+                  "preload": "1",
+                  "height": "256",
+                  "predecode": "1"
+                }
+              }
+            ],
+            "preview": [{ "$": { "strip": "1", "color": "0x808080" } }]
+          }
+        ],
+        "view": [
+          {
+            "$": { "pannorth": "0", "fovmode": "0" },
+            "start": [
+              {
+                "$": { "pan": "0", "projection": "4", "tilt": "0", "fov": "70" }
+              }
+            ],
+            "flyin": [
+              {
+                "$": {
+                  "pan": "0",
+                  "projection": "9",
+                  "tilt": "-90",
+                  "fov": "170"
+                }
+              }
+            ],
+            "min": [{ "$": { "fovpixel": "2", "pan": "0", "tilt": "-90" } }],
+            "max": [
+              {
+                "$": {
+                  "fovfisheye": "360",
+                  "fovstereographic": "270",
+                  "scaletofit": "1",
+                  "pan": "360",
+                  "tilt": "90",
+                  "fov": "120"
+                }
+              }
+            ]
+          }
+        ],
+        "userdata": [
+          {
+            "$": {
+              "longitude": "-71.249077",
+              "datetime": "01/01/1970 0:00",
+              "copyright": "",
+              "tags": "Masterplan 360",
+              "author": "",
+              "title": "default",
+              "info": "",
+              "comment": "",
+              "latitude": "-38.508830",
+              "customnodeid": "",
+              "nodeid": "node3",
+              "source": "",
+              "description": ""
+            }
+          }
+        ],
+        "hotspots": [
+          {
+            "$": { "wordwrap": "1", "width": "180", "height": "20" },
+            "label": [
+              {
+                "$": {
+                  "background": "1",
+                  "enabled": "1",
+                  "bordercolor": "0x000000",
+                  "wordwrap": "1",
+                  "width": "180",
+                  "textalpha": "1",
+                  "textcolor": "0x000000",
+                  "backgroundcolor": "0xffffff",
+                  "backgroundalpha": "1",
+                  "border": "1",
+                  "height": "20",
+                  "borderradius": "1",
+                  "borderalpha": "1"
+                }
+              }
+            ],
+            "polystyle": [
+              {
+                "$": {
+                  "bordercolor": "0x0000ff",
+                  "handcursor": "1",
+                  "backgroundcolor": "0x0000ff",
+                  "backgroundalpha": "0.25098",
+                  "mode": "0",
+                  "borderalpha": "1"
+                }
+              }
+            ]
+          }
+        ],
+        "media": [""],
+        "transition": [
+          {
+            "$": {
+              "zoomout": "0",
+              "enabled": "1",
+              "softedge": "0",
+              "zoomspeed": "2",
+              "zoomfov": "20",
+              "blendtime": "1",
+              "type": "crossdissolve",
+              "zoomin": "0",
+              "zoomoutpause": "1",
+              "blendcolor": "0x000000"
+            }
+          }
+        ],
+        "animation": [
+          {
+            "$": {
+              "syncanimationwithvideo": "0",
+              "animsequence": "Animation01",
+              "useinautorotation": "0"
+            }
+          }
+        ],
+        "control": [
+          {
+            "$": {
+              "sensitivity": "8",
+              "simulatemass": "1",
+              "invertcontrol": "1",
+              "lockedkeyboard": "0",
+              "lockedwheel": "0",
+              "contextprojections": "0",
+              "contextfullscreen": "1",
+              "lockedmouse": "0",
+              "invertwheel": "0",
+              "lockedkeyboardzoom": "0",
+              "speedwheel": "1",
+              "hideabout": "0",
+              "rubberband": "0",
+              "dblclickfullscreen": "0"
+            }
+          }
+        ]
+      },
+      {
+        "$": { "id": "node7" },
+        "input": [
+          {
+            "$": {
+              "overlap": "1",
+              "levelbias": "0.400",
+              "levelbiashidpi": "1.000",
+              "width": "2048",
+              "leveltileurl": "tiles/node7/cf_%c/l_%l/c_%x/tile_%y.jpg",
+              "height": "2048",
+              "levelingroll": "0",
+              "leveltilesize": "510",
+              "levelingpitch": "0"
+            },
+            "level": [
+              {
+                "$": {
+                  "width": "2048",
+                  "preload": "0",
+                  "height": "2048",
+                  "predecode": "0"
+                }
+              },
+              {
+                "$": {
+                  "width": "1024",
+                  "preload": "0",
+                  "height": "1024",
+                  "predecode": "0"
+                }
+              },
+              {
+                "$": {
+                  "width": "512",
+                  "preload": "0",
+                  "height": "512",
+                  "predecode": "0"
+                }
+              },
+              {
+                "$": {
+                  "width": "256",
+                  "preload": "1",
+                  "height": "256",
+                  "predecode": "1"
+                }
+              }
+            ],
+            "preview": [{ "$": { "strip": "1", "color": "0x808080" } }]
+          }
+        ],
+        "view": [
+          {
+            "$": { "pannorth": "0", "fovmode": "0" },
+            "start": [
+              {
+                "$": { "pan": "0", "projection": "4", "tilt": "0", "fov": "70" }
+              }
+            ],
+            "flyin": [
+              {
+                "$": {
+                  "pan": "0",
+                  "projection": "9",
+                  "tilt": "-90",
+                  "fov": "170"
+                }
+              }
+            ],
+            "min": [{ "$": { "fovpixel": "2", "pan": "0", "tilt": "-90" } }],
+            "max": [
+              {
+                "$": {
+                  "fovfisheye": "360",
+                  "fovstereographic": "270",
+                  "scaletofit": "1",
+                  "pan": "360",
+                  "tilt": "90",
+                  "fov": "120"
+                }
+              }
+            ]
+          }
+        ],
+        "userdata": [
+          {
+            "$": {
+              "longitude": "-71.242285",
+              "datetime": "01/01/1970 0:00",
+              "copyright": "",
+              "tags": "Masterplan 360",
+              "author": "",
+              "title": "default",
+              "info": "",
+              "comment": "",
+              "latitude": "-38.507994",
+              "customnodeid": "",
+              "nodeid": "node7",
+              "source": "",
+              "description": ""
+            }
+          }
+        ],
+        "hotspots": [
+          {
+            "$": { "wordwrap": "1", "width": "180", "height": "20" },
+            "label": [
+              {
+                "$": {
+                  "background": "1",
+                  "enabled": "1",
+                  "bordercolor": "0x000000",
+                  "wordwrap": "1",
+                  "width": "180",
+                  "textalpha": "1",
+                  "textcolor": "0x000000",
+                  "backgroundcolor": "0xffffff",
+                  "backgroundalpha": "1",
+                  "border": "1",
+                  "height": "20",
+                  "borderradius": "1",
+                  "borderalpha": "1"
+                }
+              }
+            ],
+            "polystyle": [
+              {
+                "$": {
+                  "bordercolor": "0x0000ff",
+                  "handcursor": "1",
+                  "backgroundcolor": "0x0000ff",
+                  "backgroundalpha": "0.25098",
+                  "mode": "0",
+                  "borderalpha": "1"
+                }
+              }
+            ]
+          }
+        ],
+        "media": [""],
+        "transition": [
+          {
+            "$": {
+              "zoomout": "0",
+              "enabled": "1",
+              "softedge": "0",
+              "zoomspeed": "2",
+              "zoomfov": "20",
+              "blendtime": "1",
+              "type": "crossdissolve",
+              "zoomin": "0",
+              "zoomoutpause": "1",
+              "blendcolor": "0x000000"
+            }
+          }
+        ],
+        "animation": [
+          {
+            "$": {
+              "syncanimationwithvideo": "0",
+              "animsequence": "Animation01",
+              "useinautorotation": "0"
+            }
+          }
+        ],
+        "control": [
+          {
+            "$": {
+              "sensitivity": "8",
+              "simulatemass": "1",
+              "invertcontrol": "1",
+              "lockedkeyboard": "0",
+              "lockedwheel": "0",
+              "contextprojections": "0",
+              "contextfullscreen": "1",
+              "lockedmouse": "0",
+              "invertwheel": "0",
+              "lockedkeyboardzoom": "0",
+              "speedwheel": "1",
+              "hideabout": "0",
+              "rubberband": "0",
+              "dblclickfullscreen": "0"
+            }
+          }
+        ]
+      }
+    ],
+    "masternode": [
+      {
+        "userdata": [
+          {
+            "$": {
+              "longitude": "",
+              "datetime": "",
+              "copyright": "",
+              "tags": "",
+              "author": "",
+              "title": "",
+              "info": "",
+              "comment": "",
+              "latitude": "",
+              "customnodeid": "",
+              "nodeid": "master",
+              "source": "",
+              "description": ""
+            }
+          }
+        ]
+      }
+    ]
+  }
+}
