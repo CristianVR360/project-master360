@@ -25,7 +25,8 @@ document.addEventListener('DOMContentLoaded', function() {
                 // Columna Precio
              
                 const priceCell = document.createElement("td");
-                priceCell.textContent = formatPrice(hotspot.$["title"]); // Aquí se formatea el precio
+                priceCell.textContent = hotspot.$["url"];
+               
                 row.appendChild(priceCell);
                 
 
@@ -33,7 +34,7 @@ document.addEventListener('DOMContentLoaded', function() {
                 
                 // Columna Descripción
                 const descCell = document.createElement("td");
-                descCell.textContent = hotspot.$["description"];
+                descCell.innerHTML = hotspot.$["description"];
                 row.appendChild(descCell);
                 
                 // Columna Disponibilidad
@@ -57,8 +58,8 @@ document.addEventListener('DOMContentLoaded', function() {
                   editButton.addEventListener("click", function() {
                       // Mostrar el modal con los datos actuales del hotspot
                       
-                      const rawPrice = hotspot.$["title"].replace(/\$|\.|,/g, ""); // Aquí se quita el formato
-                      document.getElementById("titleInput").value = rawPrice;
+                      const rawPrice = hotspot.$["url"].replace(/\$|\.|,/g, ""); // Aquí se quita el formato
+                      document.getElementById("titleInput").value = hotspot.$["url"];
 
                       document.getElementById("descriptionInput").value = hotspot.$["description"];
                       
@@ -114,7 +115,7 @@ function saveChanges() {
  // Incluir el skinID en el objeto con los datos actualizados
  const updatedData = {
      id: hotspotId,
-     title: updatedTitle,
+     url: updatedTitle,
      description: updatedDescription,
      skinID: updatedSkinID
  };

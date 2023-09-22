@@ -1,167 +1,119 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<tour start="node8" appversion="6.1.2" apprev="17873">
-  <panorama id="node8">
-    <input overlap="1" levelbias="0.400" levelbiashidpi="1.000" width="2048" leveltileurl="tiles/node8/cf_%c/l_%l/c_%x/tile_%y.jpg" height="2048" levelingroll="0" leveltilesize="510" levelingpitch="0">
-      <level width="2048" preload="0" height="2048" predecode="0"/>
-      <level width="1024" preload="0" height="1024" predecode="0"/>
-      <level width="512" preload="0" height="512" predecode="0"/>
-      <level width="256" preload="1" height="256" predecode="1"/>
-      <preview strip="1" color="0x808080"/>
-    </input>
-    <view pannorth="0" fovmode="0">
-      <start pan="0" projection="4" tilt="0" fov="70"/>
-      <flyin pan="0" projection="9" tilt="-90" fov="170"/>
-      <min fovpixel="2" pan="0" tilt="-90"/>
-      <max fovfisheye="360" fovstereographic="270" scaletofit="1" pan="360" tilt="90" fov="120"/>
-    </view>
-    <userdata longitude="-71.234564" datetime="26/08/2023 13:42" copyright="" tags="Pano2VR6" author="" title="default" info="" comment="" latitude="-38.502583" customnodeid="" nodeid="node8" source="" description=""/>
-    <hotspots wordwrap="1" width="180" height="20">
-      <label background="1" enabled="1" bordercolor="0x000000" wordwrap="1" width="180" textalpha="1" textcolor="0x000000" backgroundcolor="0xffffff" backgroundalpha="1" border="1" height="20" borderradius="1" borderalpha="1"/>
-      <polystyle bordercolor="0x0000ff" handcursor="1" backgroundcolor="0x0000ff" backgroundalpha="0.25098" mode="0" borderalpha="1"/>
-      <hotspot target="_blank" title="Paso Fronteriso Pino Hachado" skinid="ht_tag_georeferencia_largeRight" url="" id="Point01" pan="-81.16" tilt="0.83" description=""/>
-      <hotspot target="_blank" title="Reserva Nacional Alto Bio Bio" skinid="ht_tag_georeferencia_largeRight" url="" id="Point02" pan="-39.77" tilt="1.13" description=""/>
-      <hotspot target="_blank" title="50000000" url="" id="33" pan="-339.63" tilt="-65.19" description="Sup: 5000 m2&#xA;Serv: 100 m2&#xA;Total: 5100 m2" skinid="ht_disponible"/>
-      <hotspot target="_blank" title="34" skinid="ht_noDisponible" url="" id="34" pan="-333.79" tilt="-69.53" description="Hola"/>
-      <hotspot target="_blank" title="35" skinid="ht_disponible" url="" id="35" pan="-325.15" tilt="-74.54" description=""/>
-      <hotspot target="_blank" title="36" skinid="ht_disponible" url="" id="36" pan="-307" tilt="-79.17" description="Yeah"/>
-      <hotspot target="_blank" title="37" skinid="ht_disponible" url="" id="37" pan="-269.82" tilt="-80.08" description=""/>
-      <hotspot target="_blank" title="43" skinid="ht_disponible" url="" id="43" pan="-297.27" tilt="-87.67" description=""/>
-      <hotspot target="_blank" title="44" skinid="ht_disponible" url="" id="44" pan="-360" tilt="-81.55" description=""/>
-      <hotspot target="_blank" title="45" skinid="ht_disponible" url="" id="45" pan="-12.38" tilt="-76.26" description=""/>
-      <hotspot target="_blank" title="46" skinid="ht_disponible" url="" id="46" pan="-8.71" tilt="-71.04" description=""/>
-      <hotspot target="_blank" title="47" skinid="ht_disponible" url="" id="47" pan="-6.87" tilt="-66.12" description=""/>
-      <hotspot target="_blank" title="144" skinid="ht_disponible" url="" id="144" pan="-69.01" tilt="-84.36" description=""/>
-      <hotspot target="_blank" title="57" skinid="ht_disponible" url="" id="57" pan="-28.21" tilt="-63.3" description=""/>
-      <hotspot target="_blank" title="56" skinid="ht_disponible" url="" id="56" pan="-36.01" tilt="-67.21" description=""/>
-      <hotspot target="_blank" title="55" skinid="ht_disponible" url="" id="55" pan="-44.8" tilt="-70.79" description=""/>
-      <hotspot target="_blank" title="54" skinid="ht_disponible" url="" id="54" pan="-60.05" tilt="-73.89" description=""/>
-      <hotspot target="_blank" title="53" skinid="ht_disponible" url="" id="53" pan="-80.83" tilt="-75.36" description=""/>
-      <hotspot target="_blank" title="143" skinid="ht_disponible" url="" id="143" pan="-99.24" tilt="-76.22" description=""/>
-      <hotspot target="_blank" title="169" skinid="ht_disponible" url="" id="169" pan="-222.89" tilt="-77.44" description=""/>
-      <hotspot target="_blank" title="108" skinid="ht_disponible" url="" id="108" pan="-176.81" tilt="-84.9" description=""/>
-      <hotspot target="_blank" title="109" skinid="ht_disponible" url="" id="109" pan="-172.03" tilt="-77.74" description=""/>
-      <hotspot target="_blank" title="110" skinid="ht_disponible" url="" id="110" pan="-172.37" tilt="-73.09" description=""/>
-      <hotspot target="_blank" title="111" skinid="ht_disponible" url="" id="111" pan="-174.04" tilt="-68.97" description=""/>
-      <hotspot target="_blank" title="112" skinid="ht_disponible" url="" id="112" pan="-177.27" tilt="-64.57" description=""/>
-      <hotspot target="_blank" title="113" skinid="ht_disponible" url="" id="113" pan="-179.54" tilt="-60.28" description=""/>
-      <hotspot target="_blank" title="114" skinid="ht_disponible" url="" id="114" pan="-178.79" tilt="-55.4" description=""/>
-      <hotspot target="_blank" title="102" skinid="ht_disponible" url="" id="102" pan="-191.38" tilt="-50.38" description=""/>
-      <hotspot target="_blank" title="103" skinid="ht_disponible" url="" id="103" pan="-194.27" tilt="-54.85" description=""/>
-      <hotspot target="_blank" title="104" skinid="ht_disponible" url="" id="104" pan="-197.89" tilt="-59.09" description=""/>
-      <hotspot target="_blank" title="105" skinid="ht_disponible" url="" id="105" pan="-200.97" tilt="-62.18" description=""/>
-      <hotspot target="_blank" title="106" skinid="ht_disponible" url="" id="106" pan="-205.61" tilt="-66.52" description=""/>
-      <hotspot target="_blank" title="107" skinid="ht_disponible" url="" id="107" pan="-210" tilt="-70.76" description=""/>
-      <hotspot target="_blank" title="142" skinid="ht_disponible" url="" id="142" pan="-119.96" tilt="-74.48" description=""/>
-      <hotspot target="_blank" title="141" skinid="ht_disponible" url="" id="141" pan="-136.66" tilt="-71.09" description=""/>
-      <hotspot target="_blank" title="140" skinid="ht_disponible" url="" id="140" pan="-149.13" tilt="-65.56" description=""/>
-      <hotspot target="_blank" title="139" skinid="ht_disponible" url="" id="139" pan="-159.45" tilt="-60.73" description=""/>
-      <hotspot target="_blank" title="138" skinid="ht_disponible" url="" id="138" pan="-165.67" tilt="-56.03" description=""/>
-      <hotspot target="_blank" title="75" skinid="ht_disponible" url="" id="75" pan="-43.01" tilt="-58.05" description=""/>
-      <hotspot target="_blank" title="74" skinid="ht_disponible" url="" id="74" pan="-53.45" tilt="-62.18" description=""/>
-      <hotspot target="_blank" title="73" skinid="ht_disponible" url="" id="73" pan="-74.06" tilt="-65.88" description=""/>
-      <hotspot target="_blank" title="72" skinid="ht_disponible" url="" id="72" pan="-96.4" tilt="-65.59" description=""/>
-      <hotspot target="_blank" title="145" skinid="ht_disponible" url="" id="145" pan="-115.84" tilt="-64.85" description=""/>
-      <hotspot target="_blank" title="146" skinid="ht_disponible" url="" id="146" pan="-127.52" tilt="-62.27" description=""/>
-      <hotspot target="_blank" title="147" skinid="ht_disponible" url="" id="147" pan="-135.29" tilt="-59.53" description=""/>
-      <hotspot target="_blank" title="148" skinid="ht_disponible" url="" id="148" pan="-140.89" tilt="-54.65" description=""/>
-      <hotspot target="_blank" title="149" skinid="ht_disponible" url="" id="189" pan="-147.07" tilt="-49.3" description=""/>
-      <hotspot target="_blank" title="150" skinid="ht_disponible" url="" id="150" pan="-152.5" tilt="-54.81" description=""/>
-      <hotspot target="_blank" title="137" skinid="ht_disponible" url="" id="137" pan="-155.1" tilt="-50.9" description=""/>
-      <hotspot target="_blank" title="137" skinid="ht_disponible" url="" id="137" pan="-163.85" tilt="-52.53" description=""/>
-      <hotspot target="_blank" title="136" skinid="ht_disponible" url="" id="136" pan="-167.54" tilt="-49.37" description=""/>
-      <hotspot target="_blank" title="135" skinid="ht_disponible" url="" id="135" pan="-168.66" tilt="-46.73" description=""/>
-      <hotspot target="_blank" title="134" skinid="ht_disponible" url="" id="134" pan="-170.23" tilt="-44.21" description=""/>
-      <hotspot target="_blank" title="133" skinid="ht_disponible" url="" id="133" pan="-172.18" tilt="-42.33" description=""/>
-      <hotspot target="_blank" title="132" skinid="ht_disponible" url="" id="132" pan="-174.01" tilt="-40.18" description=""/>
-      <hotspot target="_blank" title="131" skinid="ht_disponible" url="" id="131" pan="-175.55" tilt="-38.48" description=""/>
-      <hotspot target="_blank" title="130" skinid="ht_disponible" url="" id="130" pan="-176.44" tilt="-36.89" description=""/>
-      <hotspot target="_blank" title="127" skinid="ht_disponible" url="" id="127" pan="-177.56" tilt="-35.5" description=""/>
-      <hotspot target="_blank" title="126" skinid="ht_disponible" url="" id="126" pan="-177.75" tilt="-34" description=""/>
-      <hotspot target="_blank" title="125" skinid="ht_disponible" url="" id="125" pan="-177.06" tilt="-32.29" description=""/>
-      <hotspot target="_blank" title="124" skinid="ht_disponible" url="" id="124" pan="-176.42" tilt="-30.19" description=""/>
-      <hotspot target="_blank" title="123" skinid="ht_disponible" url="" id="123" pan="-175.49" tilt="-28.37" description=""/>
-      <hotspot target="_blank" title="120" skinid="ht_disponible" url="" id="120" pan="-181.06" tilt="-28.62" description=""/>
-      <hotspot target="_blank" title="122" skinid="ht_disponible" url="" id="122" pan="-175.28" tilt="-26.98" description=""/>
-      <hotspot target="_blank" title="121" skinid="ht_disponible" url="" id="121" pan="-180.94" tilt="-26.95" description=""/>
-      <hotspot target="_blank" title="119" skinid="ht_disponible" url="" id="119" pan="-181.52" tilt="-30.23" description=""/>
-      <hotspot target="_blank" title="118" skinid="ht_disponible" url="" id="118" pan="-183.11" tilt="-32.08" description=""/>
-      <hotspot target="_blank" title="117" skinid="ht_disponible" url="" id="117" pan="-185.22" tilt="-34.93" description=""/>
-      <hotspot target="_blank" title="100" skinid="ht_disponible" url="" id="100" pan="-185.49" tilt="-39.59" description=""/>
-      <hotspot target="_blank" title="116" skinid="ht_disponible" url="" id="116" pan="-181.85" tilt="-44.06" description=""/>
-      <hotspot target="_blank" title="101" skinid="ht_disponible" url="" id="101" pan="-187.66" tilt="-43.76" description=""/>
-      <hotspot target="_blank" title="115" skinid="ht_disponible" url="" id="115" pan="-180.1" tilt="-49.4" description=""/>
-      <hotspot target="_blank" title="99" skinid="ht_disponible" url="" id="99" pan="-189.27" tilt="-33.97" description=""/>
-      <hotspot target="_blank" title="98" skinid="ht_disponible" url="" id="98" pan="-188.08" tilt="-30.98" description=""/>
-      <hotspot target="_blank" title="97" skinid="ht_disponible" url="" id="97" pan="-187.24" tilt="-28.93" description=""/>
-      <hotspot target="_blank" title="96" skinid="ht_disponible" url="" id="96" pan="-186.65" tilt="-26.95" description=""/>
-      <hotspot target="_blank" title="151" skinid="ht_disponible" url="" id="151" pan="-155.73" tilt="-47.11" description=""/>
-      <hotspot target="_blank" title="152" skinid="ht_disponible" url="" id="152" pan="-157.08" tilt="-44.07" description=""/>
-      <hotspot target="_blank" title="153" skinid="ht_disponible" url="" id="153" pan="-158.67" tilt="-40.83" description=""/>
-      <hotspot target="_blank" title="154" skinid="ht_disponible" url="" id="154" pan="-160.55" tilt="-38.89" description=""/>
-      <hotspot target="_blank" title="155" skinid="ht_disponible" url="" id="155" pan="-162.41" tilt="-36.74" description=""/>
-      <hotspot target="_blank" title="156" skinid="ht_disponible" url="" id="156" pan="-164.14" tilt="-34.84" description=""/>
-      <hotspot target="_blank" title="157" skinid="ht_disponible" url="" id="157" pan="-166" tilt="-33.93" description=""/>
-      <hotspot target="_blank" title="158" skinid="ht_disponible" url="" id="158" pan="-166.83" tilt="-32.63" description=""/>
-      <hotspot target="_blank" title="159" skinid="ht_disponible" url="" id="158" pan="-167.63" tilt="-31.34" description=""/>
-      <hotspot target="_blank" title="160" skinid="ht_disponible" url="" id="160" pan="-167.74" tilt="-29.83" description=""/>
-      <hotspot target="_blank" title="161" skinid="ht_disponible" url="" id="161" pan="-167.98" tilt="-28.39" description=""/>
-      <hotspot target="_blank" title="162" skinid="ht_disponible" url="" id="162" pan="-168.38" tilt="-27.29" description=""/>
-      <hotspot target="_blank" title="163" skinid="ht_disponible" url="" id="163" pan="-168.14" tilt="-25.88" description=""/>
-    </hotspots>
-    <media/>
-    <transition zoomout="0" enabled="1" softedge="0" zoomspeed="2" zoomfov="20" blendtime="1" type="crossdissolve" zoomin="0" zoomoutpause="1" blendcolor="0x000000"/>
-    <animation syncanimationwithvideo="0" animsequence="Animation01" useinautorotation="0"/>
-    <control sensitivity="8" simulatemass="1" invertcontrol="1" lockedkeyboard="0" lockedwheel="0" contextprojections="0" contextfullscreen="1" lockedmouse="0" invertwheel="0" lockedkeyboardzoom="0" speedwheel="1" hideabout="0" rubberband="0" dblclickfullscreen="0"/>
-  </panorama>
-  <panorama id="node3">
-    <input overlap="1" levelbias="0.400" levelbiashidpi="1.000" width="2048" leveltileurl="tiles/node3/cf_%c/l_%l/c_%x/tile_%y.jpg" height="2048" levelingroll="0" leveltilesize="510" levelingpitch="0">
-      <level width="2048" preload="0" height="2048" predecode="0"/>
-      <level width="1024" preload="0" height="1024" predecode="0"/>
-      <level width="512" preload="0" height="512" predecode="0"/>
-      <level width="256" preload="1" height="256" predecode="1"/>
-      <preview strip="1" color="0x808080"/>
-    </input>
-    <view pannorth="0" fovmode="0">
-      <start pan="0" projection="4" tilt="0" fov="70"/>
-      <flyin pan="0" projection="9" tilt="-90" fov="170"/>
-      <min fovpixel="2" pan="0" tilt="-90"/>
-      <max fovfisheye="360" fovstereographic="270" scaletofit="1" pan="360" tilt="90" fov="120"/>
-    </view>
-    <userdata longitude="-71.249077" datetime="01/01/1970 0:00" copyright="" tags="Masterplan 360" author="" title="default" info="" comment="" latitude="-38.508830" customnodeid="" nodeid="node3" source="" description=""/>
-    <hotspots wordwrap="1" width="180" height="20">
-      <label background="1" enabled="1" bordercolor="0x000000" wordwrap="1" width="180" textalpha="1" textcolor="0x000000" backgroundcolor="0xffffff" backgroundalpha="1" border="1" height="20" borderradius="1" borderalpha="1"/>
-      <polystyle bordercolor="0x0000ff" handcursor="1" backgroundcolor="0x0000ff" backgroundalpha="0.25098" mode="0" borderalpha="1"/>
-    </hotspots>
-    <media/>
-    <transition zoomout="0" enabled="1" softedge="0" zoomspeed="2" zoomfov="20" blendtime="1" type="crossdissolve" zoomin="0" zoomoutpause="1" blendcolor="0x000000"/>
-    <animation syncanimationwithvideo="0" animsequence="Animation01" useinautorotation="0"/>
-    <control sensitivity="8" simulatemass="1" invertcontrol="1" lockedkeyboard="0" lockedwheel="0" contextprojections="0" contextfullscreen="1" lockedmouse="0" invertwheel="0" lockedkeyboardzoom="0" speedwheel="1" hideabout="0" rubberband="0" dblclickfullscreen="0"/>
-  </panorama>
-  <panorama id="node7">
-    <input overlap="1" levelbias="0.400" levelbiashidpi="1.000" width="2048" leveltileurl="tiles/node7/cf_%c/l_%l/c_%x/tile_%y.jpg" height="2048" levelingroll="0" leveltilesize="510" levelingpitch="0">
-      <level width="2048" preload="0" height="2048" predecode="0"/>
-      <level width="1024" preload="0" height="1024" predecode="0"/>
-      <level width="512" preload="0" height="512" predecode="0"/>
-      <level width="256" preload="1" height="256" predecode="1"/>
-      <preview strip="1" color="0x808080"/>
-    </input>
-    <view pannorth="0" fovmode="0">
-      <start pan="0" projection="4" tilt="0" fov="70"/>
-      <flyin pan="0" projection="9" tilt="-90" fov="170"/>
-      <min fovpixel="2" pan="0" tilt="-90"/>
-      <max fovfisheye="360" fovstereographic="270" scaletofit="1" pan="360" tilt="90" fov="120"/>
-    </view>
-    <userdata longitude="-71.242285" datetime="01/01/1970 0:00" copyright="" tags="Masterplan 360" author="" title="default" info="" comment="" latitude="-38.507994" customnodeid="" nodeid="node7" source="" description=""/>
-    <hotspots wordwrap="1" width="180" height="20">
-      <label background="1" enabled="1" bordercolor="0x000000" wordwrap="1" width="180" textalpha="1" textcolor="0x000000" backgroundcolor="0xffffff" backgroundalpha="1" border="1" height="20" borderradius="1" borderalpha="1"/>
-      <polystyle bordercolor="0x0000ff" handcursor="1" backgroundcolor="0x0000ff" backgroundalpha="0.25098" mode="0" borderalpha="1"/>
-    </hotspots>
-    <media/>
-    <transition zoomout="0" enabled="1" softedge="0" zoomspeed="2" zoomfov="20" blendtime="1" type="crossdissolve" zoomin="0" zoomoutpause="1" blendcolor="0x000000"/>
-    <animation syncanimationwithvideo="0" animsequence="Animation01" useinautorotation="0"/>
-    <control sensitivity="8" simulatemass="1" invertcontrol="1" lockedkeyboard="0" lockedwheel="0" contextprojections="0" contextfullscreen="1" lockedmouse="0" invertwheel="0" lockedkeyboardzoom="0" speedwheel="1" hideabout="0" rubberband="0" dblclickfullscreen="0"/>
-  </panorama>
-  <masternode>
-    <userdata longitude="" datetime="" copyright="" tags="" author="" title="" info="" comment="" latitude="" customnodeid="" nodeid="master" source="" description=""/>
-  </masternode>
-</tour>
+<panorama apprev="17873" appversion="6.1.2" id="node1">
+  <input levelbiashidpi="1.000" levelingpitch="0" levelbias="0.400" overlap="1" leveltileurl="tiles/node1/cf_%c/l_%l/c_%x/tile_%y.jpg" height="2048" levelingroll="0" width="2048" leveltilesize="510">
+    <level height="2048" width="2048" predecode="0" preload="0"/>
+    <level height="1024" width="1024" predecode="0" preload="0"/>
+    <level height="512" width="512" predecode="0" preload="0"/>
+    <level height="256" width="256" predecode="1" preload="1"/>
+    <preview strip="1" color="0x808080"/>
+  </input>
+  <view pannorth="0" fovmode="0">
+    <start tilt="-85.77" projection="4" pan="-79.74" fov="96.49"/>
+    <flyin tilt="-90" projection="9" pan="0" fov="170"/>
+    <min tilt="-90" fovpixel="2" pan="0"/>
+    <max fovfisheye="360" tilt="90" fovstereographic="270" pan="360" fov="120" scaletofit="1"/>
+  </view>
+  <userdata description="" latitude="-39.253471" comment="" tags="Fotos" source="" nodeid="node1" longitude="-72.314677" title="Los Tordos" copyright="" datetime="16/07/2023 14:27" info="" customnodeid="" author=""/>
+  <hotspots height="20" width="180" wordwrap="1">
+    <label border="1" textalpha="1" borderradius="1" backgroundcolor="0xffffff" height="20" background="1" width="180" borderalpha="1" enabled="1" bordercolor="0x000000" textcolor="0x000000" wordwrap="1" backgroundalpha="1"/>
+    <polystyle handcursor="1" mode="0" backgroundcolor="0x0000ff" borderalpha="1" bordercolor="0x0000ff" backgroundalpha="0.25098"/>
+    <hotspot description="" url="" tilt="-60.04" target="_blank" id="1" pan="-94.7" skinid="ht_noDisponible" title="1"/>
+    <hotspot description="" url="" tilt="-65.96" target="_blank" id="2" pan="-123.11" skinid="ht_noDisponible" title="2"/>
+    <hotspot description="&lt;b>Superficie:&lt;/b> 4.965 m² &#xA;&lt;b>Servidumbre:&lt;/b> 196 m² &#xA;&lt;b>Superficie Total:&lt;/b> 5.161 m²" url="" tilt="-56.24" target="_blank" id="3" pan="-69.06" skinid="ht_noDisponible" title="3"/>
+    <hotspot description="&lt;b>Superficie:&lt;/b> 5.011 m² &#xA;&lt;b>Servidumbre:&lt;/b> 156 m² &#xA;&lt;b>Superficie Total:&lt;/b> 5.167 m²" url="$60.000.000" tilt="-58.01" target="_blank" id="4" pan="-60.87" skinid="ht_noDisponible" title="4"/>
+    <hotspot description="&lt;b>Superficie:&lt;/b> 4.985 m² &#xA;&lt;b>Servidumbre:&lt;/b> 176 m² &#xA;&lt;b>Superficie Total:&lt;/b> 5.161 m²" url="$60.000.000" tilt="-60.31" target="_blank" id="5" pan="-52.13" skinid="ht_disponible" title="5"/>
+    <hotspot description="&lt;b>Superficie:&lt;/b> 4.844 m² &#xA;&lt;b>Servidumbre:&lt;/b> 200 m² &#xA;&lt;b>Superficie Total:&lt;/b> 5.044 m²" url="$60.000.000" tilt="-62.77" target="_blank" id="6" pan="-43.38" skinid="ht_disponible" title="6"/>
+    <hotspot description="&lt;b>Superficie:&lt;/b> 4.844 m² &#xA;&lt;b>Servidumbre:&lt;/b> 200 m² &#xA;&lt;b>Superficie Total:&lt;/b> 5.044 m²" url="" tilt="-64.18" target="_blank" id="7" pan="-33.2" skinid="ht_noDisponible" title="7"/>
+    <hotspot description="&lt;b>Superficie:&lt;/b> 4.864 m² &#xA;&lt;b>Servidumbre:&lt;/b> 204 m² &#xA;&lt;b>Superficie Total:&lt;/b> 5.068 m²" url="" tilt="-64.8" target="_blank" id="8" pan="-21.17" skinid="ht_noDisponible" title="8"/>
+    <hotspot description="&lt;b>Superficie:&lt;/b> 4.321 m² &#xA;&lt;b>Servidumbre:&lt;/b> 754 m² &#xA;&lt;b>Superficie Total:&lt;/b> 5.075 m²" url="$60.000.000" tilt="-64.28" target="_blank" id="9" pan="-9.49" skinid="ht_disponible" title="9"/>
+    <hotspot description="&lt;b>Superficie:&lt;/b> 4.593 m² &#xA;&lt;b>Servidumbre:&lt;/b> 790 m² &#xA;&lt;b>Superficie Total:&lt;/b> 5.383 m²" url="" tilt="-61.88" target="_blank" id="10" pan="-356.35" skinid="ht_noDisponible" title="10"/>
+    <hotspot description="&lt;b>Superficie:&lt;/b> 4.930 m² &#xA;&lt;b>Servidumbre:&lt;/b> 204 m² &#xA;&lt;b>Superficie Total:&lt;/b> 5.134 m²" url="" tilt="-60.02" target="_blank" id="11" pan="-347.37" skinid="ht_noDisponible" title="11"/>
+    <hotspot description="&lt;b>Superficie:&lt;/b> 4.845 m² &#xA;&lt;b>Servidumbre:&lt;/b> 204 m² &#xA;&lt;b>Superficie Total:&lt;/b> 5.049 m²" url="$60.000.000" tilt="-57.26" target="_blank" id="12" pan="-340.27" skinid="ht_disponible" title="12"/>
+    <hotspot description="&lt;b>Superficie:&lt;/b> 4.845 m² &#xA;&lt;b>Servidumbre:&lt;/b> 204 m² &#xA;&lt;b>Superficie Total:&lt;/b> 5.049 m²" url="" tilt="-54.63" target="_blank" id="13" pan="-333.13" skinid="ht_noDisponible" title="13"/>
+    <hotspot description="&lt;b>Superficie:&lt;/b> 4.845 m² &#xA;&lt;b>Servidumbre:&lt;/b> 204 m² &#xA;&lt;b>Superficie Total:&lt;/b> 5.049 m²" url="$60.000.000" tilt="-51.56" target="_blank" id="14" pan="-328.31" skinid="ht_disponible" title="14"/>
+    <hotspot description="&lt;b>Superficie:&lt;/b> 4.845 m² &#xA;&lt;b>Servidumbre:&lt;/b> 204 m² &#xA;&lt;b>Superficie Total:&lt;/b> 5.049 m²" url="" tilt="-48.49" target="_blank" id="15" pan="-323.58" skinid="ht_noDisponible" title="15"/>
+    <hotspot description="&lt;b>Superficie:&lt;/b> 4.845 m² &#xA;&lt;b>Servidumbre:&lt;/b> 204 m² &#xA;&lt;b>Superficie Total:&lt;/b> 5.049 m²" url="$60.000.000" tilt="-45.51" target="_blank" id="16" pan="-319.85" skinid="ht_disponible" title="16"/>
+    <hotspot description="&lt;b>Superficie:&lt;/b> 5.127 m² &#xA;&lt;b>Servidumbre:&lt;/b> 0 m² &#xA;&lt;b>Superficie Total:&lt;/b> 5.127 m²" url="$65.000.000" tilt="-42.89" target="_blank" id="17" pan="-318.31" skinid="ht_disponible" title="17"/>
+    <hotspot description="&lt;b>Superficie:&lt;/b> 4.821 m² &#xA;&lt;b>Servidumbre:&lt;/b> 502 m² &#xA;&lt;b>Superficie Total:&lt;/b> 5.323 m²" url="$50.000.000" tilt="-49.75" target="_blank" id="18" pan="-312.48" skinid="ht_disponible" title="18"/>
+    <hotspot description="&lt;b>Superficie:&lt;/b> 4.900 m² &#xA;&lt;b>Servidumbre:&lt;/b> 200 m² &#xA;&lt;b>Superficie Total:&lt;/b> 5.100 m²" url="$50.000.000" tilt="-52.65" target="_blank" id="19" pan="-308.69" skinid="ht_disponible" title="19"/>
+    <hotspot description="&lt;b>Superficie:&lt;/b> 4.900 m² &#xA;&lt;b>Servidumbre:&lt;/b> 200 m² &#xA;&lt;b>Superficie Total:&lt;/b> 5.100 m²" url="$50.000.000" tilt="-55.71" target="_blank" id="20" pan="-303.46" skinid="ht_disponible" title="20"/>
+    <hotspot description="&lt;b>Superficie:&lt;/b> 4.900 m² &#xA;&lt;b>Servidumbre:&lt;/b> 200 m² &#xA;&lt;b>Superficie Total:&lt;/b> 5.100 m²" url="$50.000.000" tilt="-58.45" target="_blank" id="21" pan="-296.99" skinid="ht_disponible" title="21"/>
+    <hotspot description="&lt;b>Superficie:&lt;/b> 4.900 m² &#xA;&lt;b>Servidumbre:&lt;/b> 200 m² &#xA;&lt;b>Superficie Total:&lt;/b> 5.100 m²" url="$50.000.000" tilt="-60.97" target="_blank" id="22" pan="-288.66" skinid="ht_disponible" title="22"/>
+    <hotspot description="&lt;b>Superficie:&lt;/b> 4.900 m² &#xA;&lt;b>Servidumbre:&lt;/b> 200 m² &#xA;&lt;b>Superficie Total:&lt;/b> 5.100 m²" url="$50.000.000" tilt="-62.93" target="_blank" id="23" pan="-279.2" skinid="ht_disponible" title="23"/>
+    <hotspot description="&lt;b>Superficie:&lt;/b> 4.900 m² &#xA;&lt;b>Servidumbre:&lt;/b> 200 m² &#xA;&lt;b>Superficie Total:&lt;/b> 5.100 m²" url="$50.000.000" tilt="-64.18" target="_blank" id="24" pan="-267.89" skinid="ht_disponible" title="24"/>
+    <hotspot description="&lt;b>Superficie:&lt;/b> 4.800 m² &#xA;&lt;b>Servidumbre:&lt;/b> 200 m² &#xA;&lt;b>Superficie Total:&lt;/b> 5.000 m²" url="" tilt="-69.51" target="_blank" id="50" pan="-214.68" skinid="ht_noDisponible" title="50"/>
+    <hotspot description="&lt;b>Superficie:&lt;/b> 4.800 m² &#xA;&lt;b>Servidumbre:&lt;/b> 200 m² &#xA;&lt;b>Superficie Total:&lt;/b> 5.000 m²" url="$50.000.000" tilt="-65.84" target="_blank" id="49" pan="-205.92" skinid="ht_disponible" title="49"/>
+    <hotspot description="&lt;b>Superficie:&lt;/b> 4.800 m² &#xA;&lt;b>Servidumbre:&lt;/b> 200 m² &#xA;&lt;b>Superficie Total:&lt;/b> 5.000 m²" url="" tilt="-61.86" target="_blank" id="48" pan="-198.76" skinid="ht_noDisponible" title="48"/>
+    <hotspot description="&lt;b>Superficie:&lt;/b> 4.942 m² &#xA;&lt;b>Servidumbre:&lt;/b> 276 m² &#xA;&lt;b>Superficie Total:&lt;/b> 5.218 m²" url="$50.000.000" tilt="-57.62" target="_blank" id="47" pan="-194.84" skinid="ht_disponible" title="47"/>
+    <hotspot description="&lt;b>Superficie:&lt;/b> 4.800 m² &#xA;&lt;b>Servidumbre:&lt;/b> 200 m² &#xA;&lt;b>Superficie Total:&lt;/b> 5.000 m²" url="$50.000.000" tilt="-61.46" target="_blank" id="46" pan="-175.49" skinid="ht_disponible" title="46"/>
+    <hotspot description="&lt;b>Superficie:&lt;/b> 4.464 m² &#xA;&lt;b>Servidumbre:&lt;/b> 576 m² &#xA;&lt;b>Superficie Total:&lt;/b> 5.040 m²" url="$50.000.000" tilt="-62.91" target="_blank" id="45" pan="-158.18" skinid="ht_disponible" title="45"/>
+    <hotspot description="&lt;b>Superficie:&lt;/b> 4.756 m² &#xA;&lt;b>Servidumbre:&lt;/b> 284 m² &#xA;&lt;b>Superficie Total:&lt;/b> 5.040 m²" url="$50.000.000" tilt="-61.15" target="_blank" id="44" pan="-145.41" skinid="ht_disponible" title="44"/>
+    <hotspot description="&lt;b>Superficie:&lt;/b> 4.807 m² &#xA;&lt;b>Servidumbre:&lt;/b> 284 m² &#xA;&lt;b>Superficie Total:&lt;/b> 5.091 m²" url="$50.000.000" tilt="-58.2" target="_blank" id="43" pan="-134.35" skinid="ht_disponible" title="43"/>
+    <hotspot description="&lt;b>Superficie:&lt;/b> 4.7320 m² &#xA;&lt;b>Servidumbre:&lt;/b> 1.122 m² &#xA;&lt;b>Superficie Total:&lt;/b> 5.854 m²" url="$50.000.000" tilt="-55.46" target="_blank" id="42" pan="-126.32" skinid="ht_disponible" title="42"/>
+    <hotspot description="&lt;b>Superficie:&lt;/b> 4.850 m² &#xA;&lt;b>Servidumbre:&lt;/b> 1.276 m² &#xA;&lt;b>Superficie Total:&lt;/b> 6.126 m²" url="$50.000.000" tilt="-51.56" target="_blank" id="41" pan="-136.72" skinid="ht_disponible" title="41"/>
+    <hotspot description="&lt;b>Superficie:&lt;/b> 4.800 m² &#xA;&lt;b>Servidumbre:&lt;/b> 200 m² &#xA;&lt;b>Superficie Total:&lt;/b> 5.000 m²" url="$50.000.000" tilt="-72.55" target="_blank" id="51" pan="-229.31" skinid="ht_disponible" title="51"/>
+    <hotspot description="&lt;b>Superficie:&lt;/b> 4.800 m² &#xA;&lt;b>Servidumbre:&lt;/b> 200 m² &#xA;&lt;b>Superficie Total:&lt;/b> 5.000 m²" url="" tilt="-74.35" target="_blank" id="52" pan="-247.54" skinid="ht_noDisponible" title="52"/>
+    <hotspot description="&lt;b>Superficie:&lt;/b> 4.800 m² &#xA;&lt;b>Servidumbre:&lt;/b> 200 m² &#xA;&lt;b>Superficie Total:&lt;/b> 5.000 m²" url="$50.000.000" tilt="-74.67" target="_blank" id="53" pan="-268.34" skinid="ht_disponible" title="53"/>
+    <hotspot description="&lt;b>Superficie:&lt;/b> 4.800 m² &#xA;&lt;b>Servidumbre:&lt;/b> 200 m² &#xA;&lt;b>Superficie Total:&lt;/b> 5.000 m²" url="$50.000.000" tilt="-72.87" target="_blank" id="54" pan="-287.48" skinid="ht_disponible" title="54"/>
+    <hotspot description="&lt;b>Superficie:&lt;/b> 4.800 m² &#xA;&lt;b>Servidumbre:&lt;/b> 200 m² &#xA;&lt;b>Superficie Total:&lt;/b> 5.000 m²" url="$50.000.000" tilt="-69.85" target="_blank" id="55" pan="-301.13" skinid="ht_disponible" title="55"/>
+    <hotspot description="&lt;b>Superficie:&lt;/b> 4.800 m² &#xA;&lt;b>Servidumbre:&lt;/b> 200 m² &#xA;&lt;b>Superficie Total:&lt;/b> 5.000 m²" url="$50.000.000" tilt="-65.9" target="_blank" id="56" pan="-310.35" skinid="ht_disponible" title="56"/>
+    <hotspot description="&lt;b>Superficie:&lt;/b> 4.800 m² &#xA;&lt;b>Servidumbre:&lt;/b> 200 m² &#xA;&lt;b>Superficie Total:&lt;/b> 5.000 m²" url="$50.000.000" tilt="-62.08" target="_blank" id="57" pan="-317.12" skinid="ht_disponible" title="57"/>
+    <hotspot description="&lt;b>Superficie:&lt;/b> 4.792 m² &#xA;&lt;b>Servidumbre:&lt;/b> 760 m² &#xA;&lt;b>Superficie Total:&lt;/b> 5.552 m²" url="$50.000.000" tilt="-57.78" target="_blank" id="58" pan="-320.62" skinid="ht_disponible" title="58"/>
+    <hotspot description="&lt;b>Superficie:&lt;/b> 4.824 m² &#xA;&lt;b>Servidumbre:&lt;/b> 1.028 m² &#xA;&lt;b>Superficie Total:&lt;/b> 5.852 m²" url="$50.000.000" tilt="-83.74" target="_blank" id="Point02" pan="-101" skinid="ht_disponible" title="68"/>
+    <hotspot description="&lt;b>Superficie:&lt;/b> 4.095 m² &#xA;&lt;b>Servidumbre:&lt;/b> 420 m² &#xA;&lt;b>Superficie Total:&lt;/b> 5.515 m²" url="$50.000.000" tilt="-78.35" target="_blank" id="Point02" pan="-124.34" skinid="ht_disponible" title="67"/>
+    <hotspot description="&lt;b>Superficie:&lt;/b> 4.941 m² &#xA;&lt;b>Servidumbre:&lt;/b> 244 m² &#xA;&lt;b>Superficie Total:&lt;/b> 5.185 m²" url="" tilt="-74.51" target="_blank" id="Point02" pan="-142.98" skinid="ht_noDisponible" title="66"/>
+    <hotspot description="&lt;b>Superficie:&lt;/b> 4.660 m² &#xA;&lt;b>Servidumbre:&lt;/b> 534 m² &#xA;&lt;b>Superficie Total:&lt;/b> 5.194 m²" url="" tilt="-69.35" target="_blank" id="Point02" pan="-149.54" skinid="ht_noDisponible" title="65"/>
+    <hotspot description="&lt;b>Superficie:&lt;/b> 4.800 m² &#xA;&lt;b>Servidumbre:&lt;/b> 200 m² &#xA;&lt;b>Superficie Total:&lt;/b> 5.000 m²" url="$50.000.000" tilt="-66.1" target="_blank" id="64" pan="-178.94" skinid="ht_disponible" title="64"/>
+    <hotspot description="&lt;b>Superficie:&lt;/b> 4.800 m² &#xA;&lt;b>Servidumbre:&lt;/b> 200 m² &#xA;&lt;b>Superficie Total:&lt;/b> 5.000 m²" url="" tilt="-70.93" target="_blank" id="63" pan="-181.84" skinid="ht_noDisponible" title="63"/>
+    <hotspot description="&lt;b>Superficie:&lt;/b> 4.800 m² &#xA;&lt;b>Servidumbre:&lt;/b> 200 m² &#xA;&lt;b>Superficie Total:&lt;/b> 5.000 m²" url="" tilt="-76.44" target="_blank" id="62" pan="-189.36" skinid="ht_noDisponible" title="62"/>
+    <hotspot description="&lt;b>Superficie:&lt;/b> 4.800 m² &#xA;&lt;b>Servidumbre:&lt;/b> 200 m² &#xA;&lt;b>Superficie Total:&lt;/b> 5.000 m²" url="$50.000.000" tilt="-81.27" target="_blank" id="61" pan="-200.2" skinid="ht_disponible" title="61"/>
+    <hotspot description="&lt;b>Superficie:&lt;/b> 4.800 m² &#xA;&lt;b>Servidumbre:&lt;/b> 200 m² &#xA;&lt;b>Superficie Total:&lt;/b> 5.000 m²" url="" tilt="-85.3" target="_blank" id="60" pan="-244.33" skinid="ht_noDisponible" title="60"/>
+    <hotspot description="&lt;b>Superficie:&lt;/b> 4.800 m² &#xA;&lt;b>Servidumbre:&lt;/b> 200 m² &#xA;&lt;b>Superficie Total:&lt;/b> 5.000 m²" url="$50.000.000" tilt="-83.64" target="_blank" id="59" pan="-300" skinid="ht_disponible" title="59"/>
+    <hotspot description="&lt;b>Superficie:&lt;/b> 4.877 m² &#xA;&lt;b>Servidumbre:&lt;/b> 486 m² &#xA;&lt;b>Superficie Total:&lt;/b> 5.363 m²" url="$50.000.000" tilt="-53.37" target="_blank" id="40" pan="-144.06" skinid="ht_disponible" title="40"/>
+    <hotspot description="&lt;b>Superficie:&lt;/b> 4.897 m² &#xA;&lt;b>Servidumbre:&lt;/b> 486 m² &#xA;&lt;b>Superficie Total:&lt;/b> 5.383 m²" url="" tilt="-54.77" target="_blank" id="39" pan="-152.29" skinid="ht_noDisponible" title="39"/>
+    <hotspot description="&lt;b>Superficie:&lt;/b> 4.956 m² &#xA;&lt;b>Servidumbre:&lt;/b> 885 m² &#xA;&lt;b>Superficie Total:&lt;/b> 5.841 m²" url="" tilt="-55.66" target="_blank" id="38" pan="-161.08" skinid="ht_noDisponible" title="38"/>
+    <hotspot description="&lt;b>Superficie:&lt;/b> 4.414 m² &#xA;&lt;b>Servidumbre:&lt;/b> 878 m² &#xA;&lt;b>Superficie Total:&lt;/b> 5.292 m²" url="$50.000.000" tilt="-55.58" target="_blank" id="37" pan="-170.65" skinid="ht_disponible" title="37"/>
+    <hotspot description="&lt;b>Superficie:&lt;/b> 4.761 m² &#xA;&lt;b>Servidumbre:&lt;/b> 393 m² &#xA;&lt;b>Superficie Total:&lt;/b> 5.154 m²" url="$50.000.000" tilt="-54.9" target="_blank" id="36" pan="-178.82" skinid="ht_disponible" title="36"/>
+    <hotspot description="&lt;b>Superficie:&lt;/b> 5.458 m² &#xA;&lt;b>Servidumbre:&lt;/b> 482 m² &#xA;&lt;b>Superficie Total:&lt;/b> 5.940 m²" url="$50.000.000" tilt="-53.17" target="_blank" id="35" pan="-185.89" skinid="ht_disponible" title="35"/>
+    <hotspot description="&lt;b>Superficie:&lt;/b> 4.885 m² &#xA;&lt;b>Servidumbre:&lt;/b> 898 m² &#xA;&lt;b>Superficie Total:&lt;/b> 5.783 m²" url="" tilt="-50.85" target="_blank" id="34" pan="-191.95" skinid="ht_noDisponible" title="34"/>
+    <hotspot description="&lt;b>Superficie:&lt;/b> 6.605 m² &#xA;&lt;b>Servidumbre:&lt;/b> 200 m² &#xA;&lt;b>Superficie Total:&lt;/b> 6.805 m²" url="$60.000.000" tilt="-45.07" target="_blank" id="33" pan="-198.42" skinid="ht_disponible" title="33"/>
+    <hotspot description="&lt;b>Superficie:&lt;/b> 4.800 m² &#xA;&lt;b>Servidumbre:&lt;/b> 200 m² &#xA;&lt;b>Superficie Total:&lt;/b> 5.000 m²" url="$50.000.000" tilt="-47.83" target="_blank" id="32" pan="-201.75" skinid="ht_disponible" title="32"/>
+    <hotspot description="&lt;b>Superficie:&lt;/b> 4.800 m² &#xA;&lt;b>Servidumbre:&lt;/b> 200 m² &#xA;&lt;b>Superficie Total:&lt;/b> 5.000 m²" url="$50.000.000" tilt="-51.27" target="_blank" id="31" pan="-206.16" skinid="ht_disponible" title="31"/>
+    <hotspot description="&lt;b>Superficie:&lt;/b> 4.825 m² &#xA;&lt;b>Servidumbre:&lt;/b> 200 m² &#xA;&lt;b>Superficie Total:&lt;/b> 5.025 m²" url="$50.000.000" tilt="-54.07" target="_blank" id="30" pan="-210.67" skinid="ht_disponible" title="30"/>
+    <hotspot description="&lt;b>Superficie:&lt;/b> 4.850 m² &#xA;&lt;b>Servidumbre:&lt;/b> 200 m² &#xA;&lt;b>Superficie Total:&lt;/b> 5.050 m²" url="$50.000.000" tilt="-57.05" target="_blank" id="29" pan="-217.27" skinid="ht_disponible" title="29"/>
+    <hotspot description="&lt;b>Superficie:&lt;/b> 4.850 m² &#xA;&lt;b>Servidumbre:&lt;/b> 200 m² &#xA;&lt;b>Superficie Total:&lt;/b> 5.050 m²" url="$50.000.000" tilt="-59.49" target="_blank" id="28" pan="-223.96" skinid="ht_disponible" title="28"/>
+    <hotspot description="&lt;b>Superficie:&lt;/b> 4.850 m² &#xA;&lt;b>Servidumbre:&lt;/b> 200 m² &#xA;&lt;b>Superficie Total:&lt;/b> 5.050 m²" url="$50.000.000" tilt="-61.68" target="_blank" id="27" pan="-233.26" skinid="ht_disponible" title="27"/>
+    <hotspot description="&lt;b>Superficie:&lt;/b> 4.878 m² &#xA;&lt;b>Servidumbre:&lt;/b> 200 m² &#xA;&lt;b>Superficie Total:&lt;/b> 5.078 m²" url="$50.000.000" tilt="-63.61" target="_blank" id="26" pan="-243.72" skinid="ht_disponible" title="26"/>
+    <hotspot description="&lt;b>Superficie:&lt;/b> 4.850 m² &#xA;&lt;b>Servidumbre:&lt;/b> 200 m² &#xA;&lt;b>Superficie Total:&lt;/b> 5.050 m²" url="$55.000.000" tilt="-71.38" target="_blank" id="75" pan="-57.7" skinid="ht_disponible" title="75"/>
+    <hotspot description="&lt;b>Superficie:&lt;/b> 4.900 m² &#xA;&lt;b>Servidumbre:&lt;/b> 200 m² &#xA;&lt;b>Superficie Total:&lt;/b> 5.100 m²" url="$50.000.000" tilt="-64.28" target="_blank" id="25" pan="-255.31" skinid="ht_disponible" title="25"/>
+    <hotspot description="&lt;b>Superficie:&lt;/b> 4.947 m² &#xA;&lt;b>Servidumbre:&lt;/b> 204 m² &#xA;&lt;b>Superficie Total:&lt;/b> 5.151 m²" url="" tilt="-74.91" target="_blank" id="73" pan="-19.82" skinid="ht_noDisponible" title="73"/>
+    <hotspot description="&lt;b>Superficie:&lt;/b> 4.850 m² &#xA;&lt;b>Servidumbre:&lt;/b> 200 m² &#xA;&lt;b>Superficie Total:&lt;/b> 5.050 m²" url="$55.000.000" tilt="-73.6" target="_blank" id="74" pan="-41.19" skinid="ht_disponible" title="74"/>
+    <hotspot description="&lt;b>Superficie:&lt;/b> 4.387 m² &#xA;&lt;b>Servidumbre:&lt;/b> 907 m² &#xA;&lt;b>Superficie Total:&lt;/b> 5.294 m²" url="$55.000.000" tilt="-74.04" target="_blank" id="72" pan="-360" skinid="ht_disponible" title="72"/>
+    <hotspot description="&lt;b>Superficie:&lt;/b> 4.846 m² &#xA;&lt;b>Servidumbre:&lt;/b> 753 m² &#xA;&lt;b>Superficie Total:&lt;/b> 5.599 m²" url="" tilt="-71.1" target="_blank" id="71" pan="-343.04" skinid="ht_noDisponible" title="71"/>
+    <hotspot description="&lt;b>Superficie:&lt;/b> 5.173 m² &#xA;&lt;b>Servidumbre:&lt;/b> 348 m² &#xA;&lt;b>Superficie Total:&lt;/b> 5.521 m²" url="$55.000.000" tilt="-66.84" target="_blank" id="70" pan="-332.48" skinid="ht_disponible" title="70"/>
+    <hotspot description="&lt;b>Superficie:&lt;/b> 5.331 m² &#xA;&lt;b>Servidumbre:&lt;/b> 210 m² &#xA;&lt;b>Superficie Total:&lt;/b> 5.541 m²" url="$55.000.000" tilt="-78.16" target="_blank" id="69" pan="-316.91" skinid="ht_disponible" title="69"/>
+    <hotspot description="3km" url="1" tilt="-6.59" target="_blank" id="Point01" pan="-126.36" skinid="ht_tag_background" title="Ñancul"/>
+    <hotspot description="9km" url="2" tilt="-2.47" target="_blank" id="Point01" pan="-83.11" skinid="ht_tag_background" title="Villarrica"/>
+    <hotspot description="" url="3" tilt="-0.28" target="_blank" id="Point01" pan="-70.06" skinid="ht_tag_background" title="Pucón - 35km"/>
+    <hotspot description="10km" url="4" tilt="-1.9" target="_blank" id="Point01" pan="-52.11" skinid="ht_tag_background" title="Lago Villarrica"/>
+    <hotspot description=" 85km" url="10" tilt="-2.95" target="_blank" id="Point01" pan="-262.82" skinid="ht_tag_background" title="Temuco"/>
+    <hotspot description="25 km" url="8" tilt="-3.97" target="_blank" id="Point01" pan="-214.59" skinid="ht_tag_background" title="Ruta 5"/>
+    <hotspot description="66km" url="9" tilt="-2.27" target="_blank" id="Point01" pan="-233.27" skinid="ht_tag_background" title="Aeropuerto Araucanía"/>
+    <hotspot description="56km" url="6" tilt="0.69" target="_blank" id="Point01" pan="-107.23" skinid="ht_tag_background" title="Coñaripe"/>
+    <hotspot description="66km" url="7" tilt="2.23" target="_blank" id="Point01" pan="-132.82" skinid="ht_tag_background" title="Panguipulli"/>
+    <hotspot description="Villarrica - Pitrufquen" url="" tilt="-41.09" target="_blank" id="Point12" pan="-90.06" skinid="ht_tag_background" title="Ruta s65"/>
+    <hotspot description="45km" url="" tilt="5.26" target="_blank" id="Point01" pan="-79.63" skinid="ht_tag_background" title="Volcán Vilalrrica"/>
+    <hotspot description="120 km" url="" tilt="-0.08" target="_blank" id="Point01" pan="-192.32" skinid="ht_tag_background" title="Valdivia"/>
+    <hotspot description="160 km" url="" tilt="1.79" target="" id="Point01" pan="-353.82" skinid="ht_tag_background" title="Volcán Llaima"/>
+    <hotspot description="70 km" url="" tilt="-1.84" target="_blank" id="Point01" pan="-2.35" skinid="ht_tag_background" title="Cunco"/>
+    <hotspot description="150 km" url="" tilt="0.8" target="_blank" id="Point01" pan="-21.65" skinid="ht_tag_background" title="Icalma "/>
+    <hotspot description="&lt;b>Superficie:&lt;/b> 4.905 m² &#xA;&lt;b>Servidumbre:&lt;/b> 288 m² &#xA;&lt;b>Superficie Total:&lt;/b> 5.193 m²" url="$55.000.000" tilt="-67.88" target="_blank" id="76" pan="-68.17" skinid="ht_disponible" title="76"/>
+    <hotspot description="&lt;b>Superficie:&lt;/b> 4.855 m² &#xA;&lt;b>Servidumbre:&lt;/b> 232 m² &#xA;&lt;b>Superficie Total:&lt;/b> 5.087 m²" url="$55.000.000" tilt="-64.54" target="_blank" id="77" pan="-78.56" skinid="ht_disponible" title="77"/>
+    <hotspot description="&lt;b>Superficie:&lt;/b> 5.377 m² &#xA;&lt;b>Servidumbre:&lt;/b> 465 m² &#xA;&lt;b>Superficie Total:&lt;/b> 5.842 m²" url="$55.000.000" tilt="-70.48" target="_blank" id="Point02" pan="-94.92" skinid="ht_disponible" title="78"/>
+    <hotspot description="&lt;b>Superficie:&lt;/b> 5.404 m² &#xA;&lt;b>Servidumbre:&lt;/b> 590 m² &#xA;&lt;b>Superficie Total:&lt;/b> 5.994 m²" url="$55.000.000" tilt="-79.45" target="_blank" id="Point02" pan="-69.95" skinid="ht_disponible" title="79"/>
+  </hotspots>
+  <media/>
+  <transition blendtime="1" zoomfov="20" zoomin="0" softedge="0" blendcolor="0x000000" zoomspeed="2" zoomout="0" enabled="1" type="crossdissolve" zoomoutpause="1"/>
+  <animation useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="0"/>
+  <control invertwheel="0" lockedkeyboard="0" dblclickfullscreen="0" simulatemass="1" lockedkeyboardzoom="0" lockedwheel="0" lockedmouse="0" sensitivity="8" speedwheel="1" contextprojections="0" hideabout="0" invertcontrol="1" rubberband="0" contextfullscreen="1"/>
+</panorama>

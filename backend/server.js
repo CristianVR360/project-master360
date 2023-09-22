@@ -14,7 +14,7 @@ const app = express();
 app.use(cors());
 app.use(express.json());
 
-function updateHotspotInXML(id, updatedTitle, updatedDescription, updatedSkinID, callback) {
+function updateHotspotInXML(id, updatedUrl, updatedDescription, updatedSkinID, callback) {
     fs.readFile('../public/pano.xml', (err, data) => {
         if (err) {
             console.error(err);
@@ -30,11 +30,11 @@ function updateHotspotInXML(id, updatedTitle, updatedDescription, updatedSkinID,
             }
 
             // Buscar el hotspot por ID y actualizarlo
-            const hotspotsArray = result.tour.panorama[0].hotspots[0].hotspot;
+            const hotspotsArray = result.panorama.hotspots[0].hotspot;
             const hotspotToUpdate = hotspotsArray.find(hotspot => hotspot.$.id === id);
 
             if (hotspotToUpdate) {
-                hotspotToUpdate.$.title = updatedTitle;
+                hotspotToUpdate.$.url = updatedUrl;  // Aquí cambiamos 'title' por 'url'
                 hotspotToUpdate.$.description = updatedDescription;
                 hotspotToUpdate.$.skinid = updatedSkinID; 
 
@@ -88,7 +88,8 @@ app.get('/getHotspots', (req, res) => {
                 return res.status(500).send('Error al analizar el archivo XML');
             }
             const excludedIds = ["Point01", "Point02", "id3"];
-            const hotspotsArray = result.tour.panorama[0].hotspots[0].hotspot;
+            const hotspotsArray = result.panorama.hotspots[0].hotspot;
+
 
             // Filtramos los hotspots para excluir los que tengan las IDs que queremos ignorar
             const filteredHotspots = hotspotsArray.filter(hotspot => !excludedIds.includes(hotspot.$.id));
@@ -113,13 +114,13 @@ app.get('/getHotspots', (req, res) => {
 });
 
 app.post('/updateHotspot', (req, res) => {
-    const { id, title, description, skinID} = req.body;
+    const { id, url, description, skinID} = req.body;
 
-    if (!id || !title || !description || !skinID) {
+    if (!id || !url || !description || !skinID) {
         return res.status(400).json({ success: false, message: 'Faltan datos en la solicitud.' });
     }
 
-    updateHotspotInXML(id, title, description, skinID, (err) => {
+    updateHotspotInXML(id, url, description, skinID, (err) => {
         if (err) {
             return res.status(500).json({ success: false, message: 'Error al actualizar el hotspot.' });
         }
